@@ -58,13 +58,9 @@
 - **Version:** Minecraft 1.21 - 1.21.11
 - **Java:** Java 21+
 
-### Quick Install
-```bash
-# 1. Download latest release
-wget https://github.com/Iraxeyy/TitanLogin/releases/latest/download/TitanLogin.jar
-
-# 2. Move to plugins folder
-mv TitanLogin.jar /path/to/server/plugins/
-
-# 3. Restart server
-./restart.sh
+# Setup Guide
+- **Download the latest release from GitHub**
+- **Place TitanLogin.jar into your /plugins/ folder**
+- **Start or restart your server**
+- **Edit plugins/TitanLogin/config.yml as needed**
+- **Plugin is ready to use**
