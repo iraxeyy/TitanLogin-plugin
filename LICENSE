@@ -1,21 +1,19 @@
-MIT License
+Copyright (c) [Year] Iraxeyy
 
-Copyright (c) 2026 iraxeyy
+All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This software, TitanLogin, including its source code and compiled binaries, is the exclusive intellectual property of Iraxeyy.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1.  **Grant of License**: You are granted a non-exclusive, non-transferable license to download and use this plugin on a Minecraft server that you own or administrate.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2.  **Restrictions**: You may **NOT**:
+    - Redistribute, republish, or share this plugin, its source code, or any modified version of it on any other website or platform.
+    - Sublicense, sell, rent, or lease this plugin to any third party.
+    - Modify, adapt, or create derivative works based on this plugin.
+    - Reverse engineer, decompile, or attempt to extract the source code.
+
+3.  **Ownership**: You acknowledge that this software is owned by Iraxeyy and that this license does not grant you any ownership rights. The original author must be credited and the plugin name must not be changed.
+
+4.  **Termination**: This license is effective until terminated. It will terminate automatically if you fail to comply with any of its terms.
+
+5.  **Disclaimer of Warranty**: This software is provided "as is", without warranty of any kind. In no event shall the author be liable for any damages arising from the use of this software.
