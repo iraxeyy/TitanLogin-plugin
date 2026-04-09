@@ -7,7 +7,7 @@
 [![Version](https://img.shields.io/badge/version-2.0.0-red)](https://github.com/Iraxeyy/TitanLogin/releases)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21--1.21.11-green)](https://papermc.io)
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-blue)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/yourserver)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2)](https://discord.gg/VVGysYVr)
 
 </div>
 
