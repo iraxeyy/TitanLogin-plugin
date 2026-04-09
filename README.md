@@ -52,7 +52,8 @@
 ---
 
 ## 📦 Installation
-
+- Modrinth • [[Modrinth](https://modrinth.com/plugin/titanlogin-plugin)]
+- Curseforge • [[Curseforge](https://www.curseforge.com/minecraft/bukkit-plugins/titanlogin)]
 ### Requirements
 - **Server:** Paper, Spigot, Purpur, or Pufferfish
 - **Version:** Minecraft 1.21 - 1.21.11
